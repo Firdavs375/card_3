@@ -25,6 +25,7 @@ h1 {
 }
 
 .kichik_div:hover {
+    cursor: pointer;
     z-index: 5s;
     bottom: 40px;
     left: 20px;
